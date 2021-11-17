@@ -1,10 +1,6 @@
-print(list(range(10)))
-print(list(range(1,11)))
-print(list(range(2,12)))
-print(list(range(3,13)))
-print(list(range(4,14)))
-print(list(range(5,15)))
-print(list(range(6,16)))
-print(list(range(7,17)))
-print(list(range(8,18)))
-print(list(range(9,19)))
+nilai = [0,1,2,3,4,5,6,7,8,9]
+baris = 10
+for a in range(baris) :
+    print(*nilai, sep="\t")
+    for coloum in range (10):
+        nilai [coloum]=nilai[coloum]+1 
