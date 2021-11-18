@@ -1,5 +1,5 @@
 # pratikum.3
-Tugas Bahasa Pemograman<h1><p>
+<h2>Tugas Bahasa Pemograman</h2><p>
 Nama : Michael valentino laisina<p>
 kelas : TI.21.C1<p>
 Nim : 312110045<p>
@@ -62,7 +62,7 @@ contoh script sebagai berikut :<p>
 output yang dihasilkan :<p>
 ![image 8 output](image/3.3.png)<p>
 
-SELESAI <h2>
+<h2>SELESAI</h2>
 
 
 
