@@ -1,7 +1,8 @@
 # pratikum.3
 <h2>Tugas Bahasa Pemograman</h2><p>
-<h3>Nama : Michael valentino laisina<p>
-kelas : TI.21.C1<p>
+<h3>
+Nama : Michael valentino laisina<p>
+Kelas : TI.21.C1<p>
 Nim : 312110045<p>
 
 Membuat program menentukan bilangan terbesar dari 2 bilangan yang diinput kan oleh user menggunakan if stetment<p>
