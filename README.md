@@ -1,6 +1,6 @@
 # pratikum.3
 <h2>Tugas Bahasa Pemograman</h2><p>
-Nama : Michael valentino laisina<p>
+<h3>Nama : Michael valentino laisina<p>
 kelas : TI.21.C1<p>
 Nim : 312110045<p>
 
@@ -60,7 +60,7 @@ Script : "3.3.py"<p>
 contoh script sebagai berikut :<p>
 ![image 8](image/3.3.png)<p>
 output yang dihasilkan :<p>
-![image 8 output](image/3.3.png)<p>
+![image 8 output](image/3.3.png)<p></h3>
 
 <h2>SELESAI</h2>
 
