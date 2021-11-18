@@ -1,5 +1,5 @@
 # pratikum.3
-Tugas Bahasa Pemograman<h2><p>
+Tugas Bahasa Pemograman<h1><p>
 Nama : Michael valentino laisina<p>
 kelas : TI.21.C1<p>
 Nim : 312110045<p>
